@@ -1,0 +1,2 @@
+The nodes of Linked List are: 
+6 5 4 3 2 1 
